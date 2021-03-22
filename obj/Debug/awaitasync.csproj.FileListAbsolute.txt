@@ -1,0 +1,9 @@
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\bin\Debug\awaitasync.exe.config
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\obj\Debug\awaitasync.csprojResolveAssemblyReference.cache
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\obj\Debug\awaitasync.Properties.Resources.resources
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\obj\Debug\awaitasync.csproj.GenerateResource.Cache
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\bin\Debug\awaitasync.exe
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\bin\Debug\awaitasync.pdb
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\obj\Debug\awaitasync.exe
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\obj\Debug\awaitasync.pdb
+c:\users\eoggioni\documents\visual studio 2015\Projects\awaitasync\awaitasync\obj\Debug\awaitasync.frmTask.resources
